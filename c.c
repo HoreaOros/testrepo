@@ -1,1 +1,5 @@
-int c();
+int c()
+{
+return 0;
+}
+
